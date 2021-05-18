@@ -8,6 +8,8 @@ When we scroll and get to more than 50px the header hides and when we go back up
 Check this website [here](https://interior-weekly-601-draft.superhi.com)
 <br>
 <br>
+<br>
+<br>
 
 <img src="images/interior-1.png" width="680">
 <img src="images/interior-2.png" width="680">
